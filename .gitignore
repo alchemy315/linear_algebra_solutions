@@ -1,0 +1,9 @@
+# ignore tex files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.tex
