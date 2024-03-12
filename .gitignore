@@ -1,5 +1,7 @@
 # Ignore everything
 *
 
-# But not these files...
-!/homework/homework/homework_1.pdf
+# But track these files...
+!*/
+!.gitignore
+!*/homework_1.pdf
