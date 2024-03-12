@@ -1,10 +1,5 @@
-# ignore tex files
-*.aux
-*.log
-*.nav
-*.out
-*.snm
-*.synctex.gz
-*.toc
-*.tex
-**/pic/
+# Ignore everything
+*
+
+# But not these files...
+!homework_1.pdf
