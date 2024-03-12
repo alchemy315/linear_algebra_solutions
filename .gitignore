@@ -4,4 +4,4 @@
 # But track these files...
 !*/
 !.gitignore
-!*/homework_1.pdf
+!/*/homework_1.pdf
